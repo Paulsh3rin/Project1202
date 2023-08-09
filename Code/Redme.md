@@ -1,1 +1,1 @@
-# This file contains all the codes that I wrote for the project.
+# This file contains the python code for scraping data.
