@@ -109,6 +109,7 @@ Here are the project outcomes for me:
 * I am now confident to load data to MySql workbench, Clean the data by dealing with NULL and Duplicate data, Transform data using JOIN function to merge two table and create a view if necessary.
 * I am now better at using Github to code and document my work effectively. Markdown Cheatsheet helped me in the process.
 * Every tasks had its challenges but one among them was I was not able to load the scraped data into MySql workbench eventhough it was in csv format, but later I found out it has to be in .csv(comma delimeted) format to be uploaded.
+* Another issue that I faced, while I was trying to find the aggresssive player, the "Totalcards" returned a big number which I felt isn't right. The reason for it was the raws had duplicate values and it all counted. I solved it by removing those duplicates.
 
 
 
