@@ -13,11 +13,28 @@
 ### 1. Extraction:
 Scraped data from available websites using python
 1. https://www.footballtransfers.com/en/teams/uk - Player Details
-![image](https://github.com/Paulsh3rin/Project1202/assets/114738504/ecc93b45-facc-4a8d-8e84-f92d62a3a2b2)
 
+| Name | Age | Nationality | Club |
+| --- | --- | --- | --- |
+| Zack Steffen | 28 | United States | Manchester City |
+| Ederson | 29 | Brazil | Manchester City |
+| Scott Carson | 37 | England | Manchester City |
+| Steffen Ortega | 30 | Germany | Manchester City |
+| Aymeric Laporte | 29 | Spain | Manchester City |
 
-3. https://fbref.com/en/squads/18bb7c10/2022-2023 - Player Stats
-![image](https://github.com/Paulsh3rin/Project1202/assets/114738504/ade87104-2239-4946-9707-6a3fe7f64190)
+`*5 rows returned*`
+
+2. https://fbref.com/en/squads/18bb7c10/2022-2023 - Player Stats
+
+| Player | Goals | Assists | Yellow Cards | Red Cards | Progressive Passes | Passes Recieved |
+| --- | --- | --- | --- | --- | --- | --- |
+| Aaron Ramsdale | 0 | 0 | 1 | 0 | 8 | 0 |
+| Gabriel Dos Santos | 3 | 0 | 5 | 0 | 153 | 16 |
+| Bukoya Saka | 14 | 11 | 6 | 0 | 109 | 520 |
+| Martin Odegaard | 15 | 7 | 4 | 0 | 266 | 193 |
+| Ben White | 2 | 5 | 5 | 0 | 249 | 124 | 
+
+`*5 rows returned*`
 
 ### 2. Load:
 1. Joined two tables and created a new table
